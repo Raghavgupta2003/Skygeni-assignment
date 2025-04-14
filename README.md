@@ -14,22 +14,11 @@ This project is a full-stack web application built for an assignment. It consist
 ## 📸 Screenshots
 
 ![4k](./screenshot/4k.png)
-![mobile_1](./screenshot/mobile_1.png)
-![mobile_2](./screenshot/mobile_2.png)
-![normal_1](./screenshot/normal_1.png)
-![normal_2](./screenshot/normal_2.png)
-![normal_3](./screenshot/normal_3.png)
-
-
-
-
-### ✅ Dashboard View with Chart and Tables
-![Dashboard Screenshot](https://github.com/Raghavgupta2003/Skygeni-assignment/assets/your-screenshot-id/dashboard.png)
-
-> _Replace the above link with your actual screenshot from GitHub or a public image host (e.g., Imgur)._
-
----
-
+![mobile_1](./screenshots/mobile_1.png)
+![mobile_2](./screenshots/mobile_2.png)
+![normal_1](./screenshots/normal_1.png)
+![normal_2](./screenshots/normal_2.png)
+![normal_3](./screenshots/normal_3.png)
 
 ---
 
