@@ -4,7 +4,7 @@ import axios from 'axios'; // Import axios to handle HTTP requests
 export const fetchPipelineData = async () => {
   try {
     // Make a GET request to the pipeline data endpoint
-    const response = await axios.get('http://localhost:5000/api/pipeline-data');
+    const response = await axios.get(`https://skygeni-assignment-jok3.onrender.com/api/pipeline-data`);
     
     // Return the data from the response object
     return response.data;
