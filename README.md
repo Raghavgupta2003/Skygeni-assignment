@@ -13,7 +13,7 @@ This project is a full-stack web application built for an assignment. It consist
 
 ## 📸 Screenshots
 
-![4k](./screenshot/4k.png)
+![4k](./screenshots/4k.png)
 ![mobile_1](./screenshots/mobile_1.png)
 ![mobile_2](./screenshots/mobile_2.png)
 ![normal_1](./screenshots/normal_1.png)
