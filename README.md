@@ -1,4 +1,4 @@
-# 🌐 Skygeni Assignment
+![Screenshot 2025-04-14 130132](https://github.com/user-attachments/assets/3a4c36ab-3c9a-4e13-b6e7-f6d67c3577f2)# 🌐 Skygeni Assignment
 
 This project is a full-stack web application built for an assignment. It consists of a **React.js frontend** and an **Express.js backend**. The app displays pipeline data using D3.js charts and Material UI tables.
 
@@ -12,6 +12,14 @@ This project is a full-stack web application built for an assignment. It consist
 ---
 
 ## 📸 Screenshots
+
+![4k](./screenshot/4k.png)
+![mobile_1](./screenshot/mobile_1.png)
+![mobile_2](./screenshot/mobile_2.png)
+![normal_1](./screenshot/normal_1.png)
+![normal_2](./screenshot/normal_2.png)
+![normal_3](./screenshot/normal_3.png)
+
 
 
 
